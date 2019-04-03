@@ -21,3 +21,7 @@ zuul:
         path: /card-statement-composite/**
         serviceId: card-statement-composite
         stripPrefix: true
+    user-service:
+        path: /user-service/**
+        serviceId: user-service
+        stripPrefix: true
