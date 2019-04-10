@@ -1,6 +1,7 @@
 server:
     port: 0
- 
+ribbon:
+    ReadTimeout: 60000 
 eureka:
     client:
         serviceUrl:
