@@ -1,5 +1,5 @@
 server:
-    port: 0
+    port: 9987
 ribbon:
     ReadTimeout: 60000 
 eureka:
